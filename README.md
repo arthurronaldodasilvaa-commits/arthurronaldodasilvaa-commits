@@ -17,8 +17,8 @@ Java + Spring Boot no back-end e base sólida de front-end para integrar tudo.
 
 - 🌱 **Atualmente estudando:** Git & GitHub (Curso em Vídeo)
 - 🚀 **Objetivo 2025:** dominar APIs REST com Spring Boot + MySQL e criar projetos reais
-- 📖 **Estilo de aprendizado:** aprender construindo coisas públicas e versionadas
-- 📍 **Localização:** Brasil
+- 📖 **Estilo de aprendizado:** aprender construindo projetos práticos
+- 📍 **Localização:** Brasil - Blumenau
 - 💡 **Filosofia:** "Commit by commit, project by project"
 
 ---
