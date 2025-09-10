@@ -28,8 +28,8 @@ Java + Spring Boot no back-end e base sólida de front-end para integrar tudo.
 | Etapa | Status | Repositório |
 |:------|:------:|:------------|
 | **Java Básico** — Curso em Vídeo | ✅ Concluído | [🔗 java-basico-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo) |
-| **Git & GitHub** — Curso em Vídeo | 🟡 Em andamento | *em breve* |
-| **POO em Java** — Curso em Vídeo | 🔜 Planejado | *em breve* |
+| **Git & GitHub** — Curso em Vídeo | ✅ Concluído | *não contém repositório* |
+| **POO em Java** — Curso em Vídeo | 🟡 Em andamento | *em breve* |
 | **APIs com Spring Boot** — Projetos práticos | 🔜 Planejado | *em breve* |
 | **MySQL** — Curso em Vídeo | 🔜 Planejado | *em breve* |
 | **Projetos Reais (solo)** | 🔜 Planejado | *em breve* |
@@ -67,14 +67,7 @@ Java + Spring Boot no back-end e base sólida de front-end para integrar tudo.
 
 ---
 
-### 🚧 Em Breve...
-- **Git & GitHub** – Comandos essenciais e fluxo de trabalho
-- **API REST com Spring Boot** – CRUD completo com JPA/Hibernate
-- **Sistema de Gerenciamento** – Projeto full stack integrado
 
-> 📝 *Cada repositório inclui README detalhado com objetivo, instruções de execução e aprendizados*
-
----
 
 ## 📈 Estatísticas do GitHub
 
