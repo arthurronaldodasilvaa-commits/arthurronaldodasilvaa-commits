@@ -65,6 +65,13 @@ Java + Spring Boot no back-end e base sólida de front-end para integrar tudo.
 **Tecnologias:** Java, NetBeans  
 **Status:** ✅ Concluído
 
+### ✅ Java POO – Exercícios
+[🔗 **Repositório**](https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo)  
+*Exercícios resolvidos, anotações e fundamentos de POO em Java*
+
+**Tecnologias:** Java, NetBeans  
+**Status:** 🟡 Em andamento
+
 ---
 
 
