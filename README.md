@@ -1,110 +1,101 @@
-# 👋 Olá! Eu sou o Arthur
+<!-- =========================================================
+   README • Arthur Ronaldo — Bonito, coeso e responsivo no GitHub
+   Dica: personalize cores dos badges trocando os hex/nomes no shields.io
+========================================================= -->
 
-<div align="center">
+<h1 align="center">👋 Olá! Eu sou o Arthur</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=arthurronaldodasilvaa-commits&style=flat-square&color=blueviolet)
-![Stack](https://img.shields.io/badge/foco-Java%20%7C%20Spring%20Boot%20%7C%20MySQL-blue?style=flat-square)
-![Learning](https://img.shields.io/badge/aprendendo-Git%20%26%20GitHub-yellow?style=flat-square)
+<p align="center">
+  <img alt="Profile Views"
+       src="https://komarev.com/ghpvc/?username=arthurronaldodasilvaa-commits&style=flat-square&color=blueviolet" />
+  <img alt="Stack"
+       src="https://img.shields.io/badge/foco-Java%20%7C%20Spring%20Boot%20%7C%20MySQL-0ea5e9?style=flat-square" />
+  <img alt="Learning"
+       src="https://img.shields.io/badge/aprendendo-Git%20%26%20GitHub-f59e0b?style=flat-square" />
+</p>
 
-**Desenvolvedor em formação rumo ao Full Stack**  
-Java + Spring Boot no back-end e base sólida de front-end para integrar tudo.
-
-</div>
+<p align="center">
+  <strong>Desenvolvedor em formação rumo ao Full Stack</strong><br/>
+  Java + Spring Boot no back-end e base sólida de front-end para integrar tudo.
+</p>
 
 ---
 
 ## 🎯 Sobre Mim
 
-- 🌱 **Atualmente estudando:** Git & GitHub (Curso em Vídeo)
-- 🚀 **Objetivo 2025:** dominar APIs REST com Spring Boot + MySQL e criar projetos reais
-- 📖 **Estilo de aprendizado:** aprender construindo projetos práticos
-- 📍 **Localização:** SC - Blumenau
-- 💡 **Filosofia:** "Commit by commit, project by project"
+- 🌱 <b>Atualmente estudando:</b> Git & GitHub (Curso em Vídeo)  
+- 🚀 <b>Objetivo 2025:</b> dominar APIs REST com Spring Boot + MySQL e criar projetos reais  
+- 📖 <b>Estilo de aprendizado:</b> aprender construindo projetos práticos  
+- 📍 <b>Localização:</b> SC — Blumenau  
+- 💡 <b>Filosofia:</b> “Commit by commit, project by project”
 
 ---
 
-## 📊 Roadmap de Estudos
+## 🗺️ Roadmap de Estudos
 
-| Etapa | Status | Repositório |
-|:------|:------:|:------------|
-| **Java Básico** — Curso em Vídeo | ✅ Concluído | [🔗 java-basico-cursoemvideo](https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo) |
-| **Git & GitHub** — Curso em Vídeo | ✅ Concluído | *não contém repositório* |
-| **POO em Java** — Curso em Vídeo | 🟡 Em andamento | *em breve* |
-| **APIs com Spring Boot** — Projetos práticos | 🔜 Planejado | *em breve* |
-| **MySQL** — Curso em Vídeo | 🔜 Planejado | *em breve* |
-| **Projetos Reais (solo)** | 🔜 Planejado | *em breve* |
-| **Front-end (base)** | 🔜 Planejado | *em breve* |
+<!-- Card centralizado para o repositório do roadmap -->
+<table align="center">
+  <tr>
+    <td>
+      <h3 align="center">Plano pessoal de estudos • Roadmap</h3>
+      <p align="center">Checklist interativo, progresso salvo e links para cursos gratuitos.</p>
+      <p align="center">
+        <a href="https://github.com/arthurronaldodasilvaa-commits/roadmap-pessoal" target="_blank">
+          <img alt="Abrir Roadmap no GitHub"
+               src="https://img.shields.io/badge/ACESSAR%20ROADMAP-2ea043?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p align="center">
+        <img alt="Stars" src="https://img.shields.io/github/stars/arthurronaldodasilvaa-commits/roadmap-pessoal?style=social" />
+        <img alt="Forks" src="https://img.shields.io/github/forks/arthurronaldodasilvaa-commits/roadmap-pessoal?style=social" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Stack Tecnológica
 
 ### 🧩 Linguagens & Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 ### 🔧 Ferramentas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 
 ---
 
 ## 🏆 Projetos em Destaque
 
-### ✅ Java Básico – Exercícios
+> Projetos com exercícios, anotações e práticas de base.
+
+### ✅ Java Básico — Exercícios
 [🔗 **Repositório**](https://github.com/arthurronaldodasilvaa-commits/java-basico-cursoemvideo)  
-*Exercícios resolvidos, anotações e fundamentos da linguagem Java*
+**Tecnologias:** Java, NetBeans • **Status:** <img alt="Concluído" src="https://img.shields.io/badge/Conclu%C3%ADdo-22c55e?style=flat-square" />
 
-**Tecnologias:** Java, NetBeans  
-**Status:** ✅ Concluído
-
-### ✅ Java POO – Exercícios
+### 🟡 Java POO — Exercícios
 [🔗 **Repositório**](https://github.com/arthurronaldodasilvaa-commits/java-poo-cursoemvideo)  
-*Exercícios resolvidos, anotações e fundamentos de POO em Java*
-
-**Tecnologias:** Java, NetBeans  
-**Status:** 🟡 Em andamento
+**Tecnologias:** Java, NetBeans • **Status:** <img alt="Em andamento" src="https://img.shields.io/badge/Em%20andamento-f59e0b?style=flat-square" />
 
 ---
-
-
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-
-<a href="https://github.com/arthurronaldodasilvaa-commits">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arthurronaldodasilvaa-commits&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-</a>
-<a href="https://github.com/arthurronaldodasilvaa-commits">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurronaldodasilvaa-commits&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" />
-</a>
-
-</div>
-
----
-
-## 📞 Vamos Conversar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ronaldo-051772383/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurronaldodasilvaa@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurronaldodasilvaa-commits)
-
-</div>
-
-💡 **Dica:** Sinta-se à vontade para abrir uma **issue** em qualquer repositório com sugestões ou dúvidas!
-
----
-
-<div align="center">
-
-⭐ **"O código que você escreve hoje é o portfólio do seu amanhã"**
+  <a href="https://github.com/arthurronaldodasilvaa-commits">
+    <img height="160"
+         src="https://github-readme-stats.vercel.app/api?username=arthurronaldodasilvaa-commits&show_icons=true&theme=radical&hide_border=true&bg_color=00000000"
+         alt="GitHub Stats - Arthur" />
+  </a>
+  <a href="https://github.com/arthurronaldodasilvaa-commits">
+    <img height="160"
+         src="https://github-
