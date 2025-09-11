@@ -38,7 +38,7 @@
   <tr>
     <td>
       <h3 align="center">Plano pessoal de estudos • Roadmap</h3>
-      <p align="center">Checklist interativo, progresso salvo e links para cursos gratuitos.</p>
+      <p align="center">Checklist em Markdown com links para cursos gratuitos.</p>
       <p align="center">
         <a href="https://github.com/arthurronaldodasilvaa-commits/roadmap-pessoal" target="_blank">
           <img alt="Abrir Roadmap no GitHub"
