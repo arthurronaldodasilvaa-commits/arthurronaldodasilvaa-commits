@@ -1,11 +1,19 @@
 <h1 align="center">👋 Olá! Eu sou o Arthur</h1>
+<p align="center">
+  <a href="https://arthurronaldodasilvaa-commits.github.io/site-github/" target="_blank">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2400&pause=900&repeat=true&center=true&vCenter=true&width=900&height=45&color=60A5FA&lines=Arthur+Ronaldo;Java+%26+Spring+Boot+%E2%80%A2+MySQL;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+Git%2FGitHub;Projetos%3A+site-github+%7C+roadmap-pessoal+%7C+java-poo-cursoemvideo"
+      alt="Arthur Ronaldo — tecnologias e projetos"
+    />
+  </a>
+</p>
+
 
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=arthurronaldodasilvaa-commits&style=flat-square&color=8b5cf6" />
   <img alt="Stack" src="https://img.shields.io/badge/foco-Java%20%7C%20Spring%20Boot%20%7C%20MySQL-0ea5e9?style=flat-square" />
   <img alt="Learning" src="https://img.shields.io/badge/aprendendo-Java-f59e0b?style=flat-square" />
 </p>
-
 <p align="center">
   <b>Desenvolvedor em formação rumo ao Full Stack</b><br/>
   Java + Spring Boot no back-end e base de front-end para integrar tudo.
